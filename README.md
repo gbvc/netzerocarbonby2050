@@ -8,8 +8,7 @@ Standard log normal distribution for the product of n random normal values bound
 Probability density function:
 
 <p align="center">
-  <img src="https://github.com/gbvc/netzerocarbonby2050/blob/main/lognormal.PNG" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/gbvc/netzerocarbonby2050/blob/main/lognormal.PNG" width="350" title="Functional form">
+
 </p>
-![Functional form]()
 
